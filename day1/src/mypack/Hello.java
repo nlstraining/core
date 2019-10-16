@@ -40,6 +40,8 @@ public class Hello {
        short k = 45;
         b = 45;
        long l  = k + b + j;
+       
+       d = d+ b + k;
 	
 	}
 
